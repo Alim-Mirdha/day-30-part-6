@@ -1,0 +1,10 @@
+.carousel img{
+    width: 100%;
+    height: 400px;
+}
+
+
+.ppp{
+    height: 400px;
+    overflow-y: scroll;
+}
